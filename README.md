@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend developer with 10 years of experience. <br>
+Frontend developer with 10 years of experience. Mainly working with React, NextJS, Typescript. <br> 
 
 
 ## 🌐 Socials:
